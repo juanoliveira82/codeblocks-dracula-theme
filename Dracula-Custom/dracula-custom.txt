@@ -1,0 +1,483 @@
+<dracula_custom>
+	<NAME>
+		<str>
+			<![CDATA[Dracula_Custom]]>
+		</str>
+	</NAME>
+	<cc>
+		<style0>
+			<FORE>
+				<colour r="248" g="248" b="242" />
+			</FORE>
+			<BACK>
+				<colour r="40" g="42" b="54" />
+			</BACK>
+			<NAME>
+				<str>
+					<![CDATA[Default]]>
+				</str>
+			</NAME>
+		</style0>
+		<style1>
+			<FORE>
+				<colour r="248" g="248" b="242" />
+			</FORE>
+			<BACK>
+				<colour r="40" g="42" b="54" />
+			</BACK>
+			<NAME>
+				<str>
+					<![CDATA[Default]]>
+				</str>
+			</NAME>
+		</style1>
+		<style2>
+			<FORE>
+				<colour r="210" g="210" b="210" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Default (inactive)]]>
+				</str>
+			</NAME>
+		</style2>
+		<style3>
+			<FORE>
+				<colour r="210" g="210" b="210" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Default (inactive)]]>
+				</str>
+			</NAME>
+		</style3>
+		<style4>
+			<FORE>
+				<colour r="210" g="210" b="210" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Default (inactive)]]>
+				</str>
+			</NAME>
+		</style4>
+		<style5>
+			<FORE>
+				<colour r="98" g="114" b="164" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment (normal)]]>
+				</str>
+			</NAME>
+		</style5>
+		<style6>
+			<FORE>
+				<colour r="98" g="114" b="164" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment (normal)]]>
+				</str>
+			</NAME>
+		</style6>
+		<style7>
+			<FORE>
+				<colour r="98" g="114" b="164" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment (normal)]]>
+				</str>
+			</NAME>
+		</style7>
+		<style8>
+			<FORE>
+				<colour r="98" g="114" b="164" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment (normal)]]>
+				</str>
+			</NAME>
+		</style8>
+		<style9>
+			<FORE>
+				<colour r="98" g="114" b="164" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment line (normal)]]>
+				</str>
+			</NAME>
+		</style9>
+		<style10>
+			<FORE>
+				<colour r="98" g="114" b="164" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment line (normal)]]>
+				</str>
+			</NAME>
+		</style10>
+		<style11>
+			<FORE>
+				<colour r="98" g="114" b="130" />
+			</FORE>
+			<BOLD bool="0" />
+			<NAME>
+				<str>
+					<![CDATA[Comment (documentation)]]>
+				</str>
+			</NAME>
+		</style11>
+		<style12>
+			<FORE>
+				<colour r="98" g="114" b="130" />
+			</FORE>
+			<BOLD bool="0" />
+			<NAME>
+				<str>
+					<![CDATA[Comment (documentation)]]>
+				</str>
+			</NAME>
+		</style12>
+		<style13>
+			<FORE>
+				<colour r="98" g="114" b="130" />
+			</FORE>
+			<BOLD bool="0" />
+			<NAME>
+				<str>
+					<![CDATA[Comment (documentation)]]>
+				</str>
+			</NAME>
+		</style13>
+		<style14>
+			<FORE>
+				<colour r="98" g="114" b="130" />
+			</FORE>
+			<BOLD bool="0" />
+			<NAME>
+				<str>
+					<![CDATA[Comment (documentation)]]>
+				</str>
+			</NAME>
+		</style14>
+		<style15>
+			<FORE>
+				<colour r="98" g="114" b="164" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment line (documentation)]]>
+				</str>
+			</NAME>
+		</style15>
+		<style16>
+			<FORE>
+				<colour r="98" g="114" b="164" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment line (documentation)]]>
+				</str>
+			</NAME>
+		</style16>
+		<style17>
+			<FORE>
+				<colour r="79" g="183" b="105" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment keyword (documentation)]]>
+				</str>
+			</NAME>
+		</style17>
+		<style18>
+			<FORE>
+				<colour r="79" g="183" b="105" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment keyword (documentation)]]>
+				</str>
+			</NAME>
+		</style18>
+		<style19>
+			<FORE>
+				<colour r="164" g="98" b="98" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment keyword error (documentation)]]>
+				</str>
+			</NAME>
+		</style19>
+		<style20>
+			<FORE>
+				<colour r="164" g="98" b="98" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Comment keyword error (documentation)]]>
+				</str>
+			</NAME>
+		</style20>
+		<style21>
+			<FORE>
+				<colour r="255" g="85" b="85" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Number]]>
+				</str>
+			</NAME>
+		</style21>
+		<style22>
+			<FORE>
+				<colour r="220" g="85" b="85" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Number (inactive)]]>
+				</str>
+			</NAME>
+		</style22>
+		<style23>
+			<FORE>
+				<colour r="80" g="250" b="123" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Keyword]]>
+				</str>
+			</NAME>
+		</style23>
+		<style24>
+			<FORE>
+				<colour r="80" g="200" b="123" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Keyword (inactive)]]>
+				</str>
+			</NAME>
+		</style24>
+		<style25>
+			<FORE>
+				<colour r="5" g="216" b="58" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[User keyword]]>
+				</str>
+			</NAME>
+		</style25>
+		<style26>
+			<FORE>
+				<colour r="26" g="159" b="60" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[User keyword (inactive)]]>
+				</str>
+			</NAME>
+		</style26>
+		<style27>
+			<FORE>
+				<colour r="156" g="14" b="156" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Global classes and typedefs]]>
+				</str>
+			</NAME>
+		</style27>
+		<style28>
+			<FORE>
+				<colour r="149" g="81" b="149" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Global classes and typedefs (inactive)]]>
+				</str>
+			</NAME>
+		</style28>
+		<style29>
+			<FORE>
+				<colour r="255" g="85" b="85" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[String]]>
+				</str>
+			</NAME>
+		</style29>
+		<style30>
+			<FORE>
+				<colour r="255" g="85" b="85" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[String]]>
+				</str>
+			</NAME>
+		</style30>
+		<style31>
+			<FORE>
+				<colour r="255" g="85" b="85" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[String]]>
+				</str>
+			</NAME>
+		</style31>
+		<style32>
+			<FORE>
+				<colour r="220" g="85" b="85" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[String (inactive)]]>
+				</str>
+			</NAME>
+		</style32>
+		<style33>
+			<FORE>
+				<colour r="220" g="85" b="85" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[String (inactive)]]>
+				</str>
+			</NAME>
+		</style33>
+		<style34>
+			<FORE>
+				<colour r="255" g="204" b="70" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Character]]>
+				</str>
+			</NAME>
+		</style34>
+		<style35>
+			<FORE>
+				<colour r="223" g="206" b="83" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Character (inactive)]]>
+				</str>
+			</NAME>
+		</style35>
+		<style36>
+			<FORE>
+				<colour r="40" g="40" b="50" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[UUID]]>
+				</str>
+			</NAME>
+		</style36>
+		<style37>
+			<FORE>
+				<colour r="255" g="121" b="198" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Preprocessor]]>
+				</str>
+			</NAME>
+		</style37>
+		<style38>
+			<FORE>
+				<colour r="220" g="100" b="150" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Preprocessor (inactive)]]>
+				</str>
+			</NAME>
+		</style38>
+		<style39>
+			<FORE>
+				<colour r="255" g="121" b="198" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Operator]]>
+				</str>
+			</NAME>
+		</style39>
+		<style40>
+			<FORE>
+				<colour r="220" g="100" b="150" />
+			</FORE>
+			<NAME>
+				<str>
+					<![CDATA[Operator (inactive)]]>
+				</str>
+			</NAME>
+		</style40>
+		<style41>
+			<BACK>
+				<colour r="106" g="106" b="106" />
+			</BACK>
+			<NAME>
+				<str>
+					<![CDATA[Selection]]>
+				</str>
+			</NAME>
+		</style41>
+		<style42>
+			<BACK>
+				<colour r="255" g="255" b="117" />
+			</BACK>
+			<NAME>
+				<str>
+					<![CDATA[Active line]]>
+				</str>
+			</NAME>
+		</style42>
+		<style43>
+			<BACK>
+				<colour r="33" g="200" b="235" />
+			</BACK>
+			<NAME>
+				<str>
+					<![CDATA[Matching brace highlight]]>
+				</str>
+			</NAME>
+		</style43>
+		<style44>
+			<BACK>
+				<colour r="235" g="41" b="41" />
+			</BACK>
+			<NAME>
+				<str>
+					<![CDATA[No matching brace highlight]]>
+				</str>
+			</NAME>
+		</style44>
+		<NAME bool="1">
+			<str>
+				<![CDATA[C/C++]]>
+			</str>
+		</NAME>
+			<editor>
+				<keywords>
+					<SET4>
+						<str>
+							<![CDATA[__GNUC__ __GNUG__]]>
+						</str>
+					</SET4>
+				</keywords>
+			</editor>
+		</cc>
+	</dracula_custom>
