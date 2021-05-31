@@ -1,4 +1,3 @@
-
 ### Install manually
 
 To use the theme in your Code::Blocks IDE, it is necessary to add the theme to your "default.conf" file.

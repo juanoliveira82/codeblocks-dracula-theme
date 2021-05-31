@@ -1,35 +1,25 @@
-<h1 align="center">Dracula-Custom</h1>
-<h4 align="center">Tema inspirado no Dracula para a IDE Code::Blocks</h4>
+# Dracula for [Code::Blocks IDE](https://www.codeblocks.org/)
 
-<p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-utilização">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-autor">Autor</a>
-</p>
+> A dark theme for [Code::Blocks IDE](https://www.codeblocks.org/).
 
-## 💻 Projeto
+![Screenshot](https://i.imgur.com/wT5GYG3.png)
 
-Este tema é inspirado no famoso tema Dracula, que está disponível para várias plataformas, mas não para a IDE Code::Blocks, então decidi fazer o meu próprio tema. 
+## Install
 
-Tema disponível para sintaxe de C/C++.
+All instructions can be found at [draculatheme.com/codeblocks](https://draculatheme.com/codeblocks).
 
-<p align="center">
-  <img src="https://i.imgur.com/wT5GYG3.png" />
-  <br>Exemplo do tema no Code::Blocks
-</p>
+## Supported languages
+- C
+- C++
 
-## 📋 Utilização
+## Team
 
-Para utilizar o tema no seu Code::Blocks, é necessário adicionar o tema ao seu arquivo "default.conf".
-No Windows, esse arquivo fica em: 
-```
-C:\Users\-seu nome de usuario-\AppData\Roaming\CodeBlocks\default.conf
-```
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/orgs/dracula/people).
 
-Abra o arquivo em um editor de sua preferência e procure por **"<colour_sets>"**. <br>
-Então copie todo o conteúdo do arquivo **"dracula-custom.txt"** do repositório e cole dentro da tag **"<colour_sets>"**. <br>
-Após isso basta abrir a IDE e escolher o tema Dracula_Custom. <br>
+[![Juan Oliveira](https://avatars.githubusercontent.com/u/19778952?s=100)](https://github.com/juanoliveira82) |
+--- |
+[Juan Oliveira](https://github.com/juanoliveira82) |
 
-## 👨‍💻 Autor
+## License
 
-[Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82) - Estudante do curso de Ciência da Computação na Universidade Estadual do Norte do Paraná (UENP).
+[MIT License](./LICENSE)
