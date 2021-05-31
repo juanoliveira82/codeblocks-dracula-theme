@@ -1,7 +1,7 @@
-<dracula_custom>
+<Dracula>
 	<NAME>
 		<str>
-			<![CDATA[Dracula_Custom]]>
+			<![CDATA[Dracula]]>
 		</str>
 	</NAME>
 	<cc>
@@ -470,14 +470,14 @@
 				<![CDATA[C/C++]]>
 			</str>
 		</NAME>
-			<editor>
-				<keywords>
-					<SET4>
-						<str>
-							<![CDATA[__GNUC__ __GNUG__]]>
-						</str>
-					</SET4>
-				</keywords>
-			</editor>
-		</cc>
-	</dracula_custom>
+		<editor>
+			<keywords>
+				<SET4>
+					<str>
+						<![CDATA[__GNUC__ __GNUG__]]>
+					</str>
+				</SET4>
+			</keywords>
+		</editor>
+	</cc>
+</Dracula>
