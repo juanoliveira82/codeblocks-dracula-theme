@@ -6,7 +6,13 @@ To use the theme in your Code::Blocks IDE, it is necessary to add the theme to y
 On Windows, this file is located at:
 
 ```
-C:\Users\~your username~\AppData\Roaming\CodeBlocks\default.conf
+%APPDATA%\CodeBlocks\default.conf
+```
+
+On Linux, this file is located at:
+
+```
+~/.config/codeblocks/default.conf
 ```
 
 - Open the file in a text editor of your choice and search for **"<colour_sets>"**.
